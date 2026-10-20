@@ -1,0 +1,12 @@
+{
+  "passwordMinLength": 8,
+  "pagination": {
+    "defaultPage": 1,
+    "defaultLimit": 20,
+    "maxLimit": 100
+  },
+  "extraDataMaxBytes": 65536,
+  "tokens": {
+    "refreshTokenBytes": 48
+  }
+}

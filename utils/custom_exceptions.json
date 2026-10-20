@@ -1,0 +1,80 @@
+{
+  "en": {
+    "200": "OK",
+    "400": "Bad Request",
+    "401": "Unauthorized",
+    "403": "Forbidden",
+    "404": "Not Found",
+    "405": "Method Not Allowed",
+    "409": "Conflict",
+    "411": "Upload Error",
+    "422": "Unprocessable Entity",
+    "500": "Internal Server Error",
+
+    "access_token_expired": "Your session has expired. Please log in again.",
+    "invalid_token": "Invalid authentication token.",
+    "invalid_refresh_token": "Invalid or expired refresh token.",
+    "invalid_credentials": "Email or password is incorrect.",
+    "account_inactive": "Your account is not active.",
+    "account_locked": "Too many failed attempts. Please try again later.",
+    "logged_out": "Logged out successfully.",
+    "forbidden": "You do not have permission to perform this action.",
+
+    "email_required": "Email is required.",
+    "email_invalid": "Please provide a valid email address.",
+    "duplicate_email": "An account with this email already exists.",
+    "password_required": "Password is required.",
+    "password_too_short": "Password must be at least 8 characters.",
+    "password_too_weak": "Password is too weak. Use letters, numbers, and a symbol.",
+    "name_required": "Name is required.",
+
+    "id_required": "ID is required.",
+    "user_not_found": "User not found.",
+    "role_not_found": "Role not found.",
+
+    "extra_data_must_be_object": "extraData must be an object.",
+    "extra_data_too_large": "extraData payload is too large.",
+
+    "validation_failed": "Validation failed.",
+    "internal_error": "Something went wrong. Please try again."
+  },
+  "ar": {
+    "200": "موافق",
+    "400": "طلب غير صالح",
+    "401": "غير مصرح",
+    "403": "ممنوع",
+    "404": "غير موجود",
+    "405": "طريقة غير مسموح بها",
+    "409": "تعارض",
+    "411": "خطأ في الرفع",
+    "422": "كيان غير قابل للمعالجة",
+    "500": "خطأ في الخادم الداخلي",
+
+    "access_token_expired": "انتهت صلاحية جلستك. الرجاء تسجيل الدخول مرة أخرى.",
+    "invalid_token": "رمز المصادقة غير صالح.",
+    "invalid_refresh_token": "رمز التحديث غير صالح أو منتهي الصلاحية.",
+    "invalid_credentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة.",
+    "account_inactive": "حسابك غير نشط.",
+    "account_locked": "محاولات فاشلة كثيرة. الرجاء المحاولة لاحقاً.",
+    "logged_out": "تم تسجيل الخروج بنجاح.",
+    "forbidden": "ليس لديك إذن لتنفيذ هذا الإجراء.",
+
+    "email_required": "البريد الإلكتروني مطلوب.",
+    "email_invalid": "يرجى تقديم عنوان بريد إلكتروني صالح.",
+    "duplicate_email": "يوجد حساب بهذا البريد الإلكتروني بالفعل.",
+    "password_required": "كلمة المرور مطلوبة.",
+    "password_too_short": "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل.",
+    "password_too_weak": "كلمة المرور ضعيفة جدا. استخدم أحرفًا وأرقامًا ورمزًا.",
+    "name_required": "الاسم مطلوب.",
+
+    "id_required": "المعرف مطلوب.",
+    "user_not_found": "المستخدم غير موجود.",
+    "role_not_found": "الدور غير موجود.",
+
+    "extra_data_must_be_object": "يجب أن يكون extraData كائنًا.",
+    "extra_data_too_large": "حمولة extraData كبيرة جدًا.",
+
+    "validation_failed": "فشل التحقق من الصحة.",
+    "internal_error": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+  }
+}
